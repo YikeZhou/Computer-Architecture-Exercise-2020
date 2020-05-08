@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Fri May 08 15:30:09 2020
+# Process ID: 16056
+# Current directory: C:/Users/10519/Desktop/Computer-Architecture-Exercise-2020/ch3/DigitalClock/DigitalClock.runs/impl_1
+# Command line: vivado.exe -log wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source wrapper.tcl -notrace
+# Log file: C:/Users/10519/Desktop/Computer-Architecture-Exercise-2020/ch3/DigitalClock/DigitalClock.runs/impl_1/wrapper.vdi
+# Journal file: C:/Users/10519/Desktop/Computer-Architecture-Exercise-2020/ch3/DigitalClock/DigitalClock.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source wrapper.tcl -notrace
